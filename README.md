@@ -1,0 +1,2 @@
+# chairtheory
+not game theory
